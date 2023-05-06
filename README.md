@@ -1,4 +1,4 @@
-Procedure of RST in the R code
+Procedure of RST in the R code for typhoid fever prediction
 To perform appropriate RST, the R code follow the procedure below, after data set is loaded.
 1. Discretize explanatory variable (X) and objective variable (Y)
 Variables can be discretize equally, using quartile points, and to clearly classify Y.
